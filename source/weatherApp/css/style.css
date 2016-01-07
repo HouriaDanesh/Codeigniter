@@ -1,0 +1,88 @@
+body{
+    width:645px !important;
+    margin: 0px auto !important;
+     background-image: url("http://stylegerms.com/wp-content/uploads/2013/06/abstract-bubbles-ppt-backgrounds-powerpoint.jpg");
+       font-family: "Times New Roman", Times, serif;
+ 
+}
+
+h6,p{
+    text-align: center;
+}
+
+#title{
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 5px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.clear{
+    clear: both;
+}
+
+.input_form{
+    margin: 10px auto;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+
+input[type="text"]{
+    width: 300px;
+}
+
+.mdl-checkbox{
+    width: 170px !important;
+}
+
+.material-icons{
+    padding-left: 0px !important;
+
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.city{
+    font-weight:400;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.bold{
+    font-weight: 400;
+}
+
+
+li, ul{
+    list-style: none;
+    display: inline-block;
+}
+
+ul{
+    text-align: center;
+     width:605px !important;
+}
+
+ul li a{
+    padding-left: 10px;
+}
+
+
+.loginform{
+    width: 450px;
+}
+
+form{
+    width:300px;
+}
